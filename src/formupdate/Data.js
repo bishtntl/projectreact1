@@ -16,8 +16,8 @@ class DataCompo extends Component{
                         <div  >
                             <h1 key={index} className="one">
                                 Name:{item.name}|
-                                Name:{item.department}|
-                                Name:{item.rating}|
+                                Department:{item.department}|
+                                Rating:{item.rating}|
                                 
                             </h1>
                            

@@ -32,7 +32,8 @@ class StructureCompo extends Component{
             Department:" ",
             Rating:" ",
             Click:false
-            })
+            })  
+            
 
     }
     ToggleFunc=()=>{
